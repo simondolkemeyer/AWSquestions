@@ -1,3 +1,5 @@
+![Logo AWS](https://docs.aws.amazon.com/assets/r/images/aws_logo_dark.png)
+
 ## Question1 - what guides and references exist for the Amazon EC2 service?
 
 [Amazon EC 2 Guides & Referneces](https://docs.aws.amazon.com/ec2/?icmpid=docs_homepage_featuredsvcs)
